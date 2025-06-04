@@ -1,3 +1,3 @@
-# Project: Generative AI Applications with RAG and LangChain
+# Final Project: Generative AI Applications with RAG and LangChain
 
-Final project labs demonstrating the use of generative AI agents built with RAG and LangChain. This includes full application pipelines, deployment, and performance evaluation.
+This project demonstrates the full-stack development of a generative AI application using LangChain, RAG pipelines, and vector databases. It simulates a real-world use case and includes deployment-ready components.
