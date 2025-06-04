@@ -1,3 +1,3 @@
-# Generative AI: Language Modeling with Transformers
+# Final Project: Language Modeling with Transformers
 
-This module explores transformer architectures in depth. Labs cover the construction and pretraining of LLMs, with a focus on language modeling tasks and transformer-based techniques.
+This project trains or fine-tunes a transformer-based language model for a downstream NLP task using Hugging Face Transformers. It includes training scripts and evaluation.
