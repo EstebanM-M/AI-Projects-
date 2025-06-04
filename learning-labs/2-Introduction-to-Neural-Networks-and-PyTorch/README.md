@@ -1,3 +1,3 @@
 # Introduction to Neural Networks and PyTorch
 
-Labs in this folder are from the introductory module on neural networks using PyTorch. The course covers perceptrons, feedforward networks, backpropagation, and training basic models using the PyTorch framework.
+This folder includes labs from the introductory course on neural networks using PyTorch. It covers the basics of deep learning, forward and backward propagation, gradient descent, and model implementation with PyTorch tensors and modules.
