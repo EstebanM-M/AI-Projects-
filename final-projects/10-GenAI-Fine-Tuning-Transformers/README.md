@@ -1,3 +1,3 @@
-# Generative AI Engineering and Fine-Tuning Transformers
+# Final Project: Fine-Tuning Transformers
 
-This folder contains labs on engineering generative AI applications and fine-tuning pretrained transformer models for specific tasks such as summarization, translation, and Q&A.
+This project fine-tunes a pre-trained transformer model on a domain-specific dataset. It includes configuration files, training code, metrics tracking, and result analysis.
