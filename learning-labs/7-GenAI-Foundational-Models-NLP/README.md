@@ -1,3 +1,3 @@
-# Generative AI: Foundational Models for NLP & Language Understanding
+# Generative AI: Foundational Models for NLP
 
-Labs in this folder cover foundational models and techniques for natural language processing, including embeddings, transformers, and model interpretability in the context of Generative AI.
+This folder contains labs introducing foundational models in natural language processing (NLP), including word embeddings, attention mechanisms, and transformer-based architectures.
