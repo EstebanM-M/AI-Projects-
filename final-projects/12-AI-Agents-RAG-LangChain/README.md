@@ -1,3 +1,3 @@
-# Fundamentals of AI Agents Using RAG and LangChain
+# Final Project: AI Agents with RAG and LangChain
 
-This module introduces AI agents using Retrieval-Augmented Generation (RAG) and LangChain. Labs include chaining tools, memory, and external API integration for dynamic agent behavior.
+This project builds an AI agent using LangChain and a RAG architecture. It combines retrieval systems with LLM prompts to create a context-aware assistant or QA bot.
