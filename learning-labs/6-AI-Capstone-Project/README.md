@@ -1,3 +1,3 @@
-# AI Capstone Project
+# AI Capstone Project (Labs)
 
-This folder contains the final project for the IBM AI Engineering Certificate. It combines all previously learned concepts to build and evaluate an end-to-end AI application.
+This folder includes the preparatory labs for the AI Capstone Project, focused on data preprocessing, model selection, and implementation strategies for a real-world machine learning use case.
