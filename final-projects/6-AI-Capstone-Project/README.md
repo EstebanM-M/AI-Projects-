@@ -1,3 +1,3 @@
-# AI Capstone Project
+# Capstone Project: AI Engineering
 
-This folder contains the final project for the IBM AI Engineering Certificate. It combines all previously learned concepts to build and evaluate an end-to-end AI application.
+This is the capstone project of the IBM AI Engineering Professional Certificate. It presents a complete ML pipeline, including data wrangling, model training, evaluation, and deployment for a real-world use case.
