@@ -1,3 +1,3 @@
-# Generative AI: Advanced Fine-Tuning for LLMs
+# Final Project: Advanced Fine-Tuning for LLMs
 
-Labs in this folder focus on advanced techniques for fine-tuning large language models (LLMs), including parameter-efficient methods, transfer learning strategies, and evaluation metrics.
+This advanced project uses techniques like LoRA or PEFT to fine-tune a large language model efficiently. It includes experimentation with hyperparameters and ablation results.
