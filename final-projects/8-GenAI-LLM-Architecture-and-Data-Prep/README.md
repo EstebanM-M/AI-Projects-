@@ -1,3 +1,3 @@
-# Generative AI and LLMs: Architecture and Data Preparation
+# Final Project: LLM Architecture and Data Preparation
 
-This folder includes labs focused on large language model (LLM) architectures and data preprocessing techniques essential for training and fine-tuning generative models.
+This project focuses on preparing datasets for large language model training or fine-tuning. It includes prompt design, data cleaning, and tokenization strategies.
