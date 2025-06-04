@@ -1,3 +1,3 @@
-# Deep Learning and Neural Networks with Keras
+# Final Project: Deep Learning with Keras
 
-This folder includes hands-on labs focused on building and training deep learning models using Keras. Topics include fully connected networks, activation functions, optimizers, and overfitting control.
+This project builds and trains a deep neural network using Keras for image or text classification. It includes the use of dropout, regularization, and callbacks for model optimization.
