@@ -1,3 +1,3 @@
-# Generative AI and LLMs: Architecture and Data Preparation
+# Generative AI: LLM Architecture and Data Preparation
 
-This folder includes labs focused on large language model (LLM) architectures and data preprocessing techniques essential for training and fine-tuning generative models.
+This folder includes labs focused on understanding large language model (LLM) architecture and preparing datasets for fine-tuning and evaluation. Topics include tokenization, data cleaning, and prompt design.
