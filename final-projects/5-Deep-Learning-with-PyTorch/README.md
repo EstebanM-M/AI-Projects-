@@ -1,3 +1,3 @@
-# Deep Learning with PyTorch
+# Final Project: Deep Learning with PyTorch
 
-This module's labs dive deeper into building and training advanced deep learning architectures using PyTorch. Topics include convolutional neural networks, recurrent neural networks, and custom datasets.
+This project implements a CNN in PyTorch to solve an image classification problem. It includes the use of data loaders, training and evaluation loops, and model saving/loading.
