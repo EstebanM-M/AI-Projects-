@@ -1,3 +1,3 @@
-# Fundamentals of AI Agents Using RAG and LangChain
+# AI Agents with RAG and LangChain
 
-This module introduces AI agents using Retrieval-Augmented Generation (RAG) and LangChain. Labs include chaining tools, memory, and external API integration for dynamic agent behavior.
+This folder includes labs related to Retrieval-Augmented Generation (RAG) and building AI agents using LangChain. Topics include document retrieval, vector stores, and agent orchestration.
