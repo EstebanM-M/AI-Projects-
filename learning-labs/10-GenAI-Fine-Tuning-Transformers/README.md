@@ -1,3 +1,3 @@
-# Generative AI Engineering and Fine-Tuning Transformers
+# Generative AI: Fine-Tuning Transformers
 
-This folder contains labs on engineering generative AI applications and fine-tuning pretrained transformer models for specific tasks such as summarization, translation, and Q&A.
+This folder includes labs focused on fine-tuning pre-trained transformer models on custom datasets, including training configuration, hyperparameter tuning, and evaluation techniques.
