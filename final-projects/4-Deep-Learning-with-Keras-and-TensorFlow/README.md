@@ -1,3 +1,3 @@
-# Deep Learning with Keras and TensorFlow
+# Final Project: Deep Learning with Keras and TensorFlow
 
-Labs here focus on using TensorFlow as a backend for Keras to build scalable deep learning models. Includes work on CNNs, RNNs, and model deployment practices.
+This final project implements a TensorFlow-based deep learning model using Keras APIs. It demonstrates model tuning, validation strategies, and performance evaluation.
