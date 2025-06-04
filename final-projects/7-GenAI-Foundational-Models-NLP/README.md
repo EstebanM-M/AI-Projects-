@@ -1,3 +1,3 @@
-# Generative AI: Foundational Models for NLP & Language Understanding
+# Final Project: Foundational Models for NLP
 
-Labs in this folder cover foundational models and techniques for natural language processing, including embeddings, transformers, and model interpretability in the context of Generative AI.
+This project applies NLP techniques using transformer models to a text classification or sentiment analysis problem. It demonstrates the use of embeddings, attention, and fine-tuning.
